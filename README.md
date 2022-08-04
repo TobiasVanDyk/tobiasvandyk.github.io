@@ -11,9 +11,9 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
 </p>
 
 **Additional Links**<br>
-[Raspberry Pi Pico TinyGo VS1053](https://github.com/elehobica/pico_tinygo_vs1053)<br>
-[Adafruit VS1053 Codec Breakout](https://github.com/adafruit/Adafruit_VS1053_Library)<br>
-[Arduino vs1053 Library](https://mpflaga.github.io/Arduino_Library-vs1053_for_SdFat/)<br>
-[Arduino SFEMP3Shield VSLI's VS10xx Library](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/)<br>
-[Arduino VS1053 Library](https://github.com/mpflaga/Arduino_Library-vs1053_for_SdFat)<br>
-[SparkFun MP3 Player Shield](https://github.com/sparkfun/MP3_Player_Shield/tree/V_1.5)<br>
+[1. Raspberry Pi Pico TinyGo VS1053](https://github.com/elehobica/pico_tinygo_vs1053)<br>
+[2. Adafruit VS1053 Codec Breakout](https://github.com/adafruit/Adafruit_VS1053_Library)<br>
+[3. Arduino vs1053 Library](https://mpflaga.github.io/Arduino_Library-vs1053_for_SdFat/)<br>
+[4. Arduino SFEMP3Shield VSLI's VS10xx Library](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/)<br>
+[5. Arduino VS1053 Library](https://github.com/mpflaga/Arduino_Library-vs1053_for_SdFat)<br>
+[6. SparkFun MP3 Player Shield](https://github.com/sparkfun/MP3_Player_Shield/tree/V_1.5)<br>
