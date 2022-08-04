@@ -9,3 +9,12 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
   <a href="https://github.com/TobiasVanDyk/VS1053B-Teensy-36-and-41-Music-Effects">4. VS1053 Audio Effects Preamp using a Teensy 3.x and 4.x</a> <br /> 
   <a href="https://github.com/TobiasVanDyk/VS1053B-Teensy36-Teensy41-SDCard-Music-Player">5. VS1053 SDCard Music Player using a Teensy 3.x and 4.x</a> <br /> 
 </p>
+
+## Additional Links
+
+[Raspberry Pi Pico TinyGo VS1053](https://github.com/elehobica/pico_tinygo_vs1053)
+[Adafruit VS1053 Codec Breakout](https://github.com/adafruit/Adafruit_VS1053_Library)
+[Arduino vs1053 Library](https://mpflaga.github.io/Arduino_Library-vs1053_for_SdFat/)
+[Arduino SFEMP3Shield VSLI's VS10xx Library](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/)
+[Arduino VS1053 Library](https://github.com/mpflaga/Arduino_Library-vs1053_for_SdFat)
+[SparkFun MP3 Player Shield](https://github.com/sparkfun/MP3_Player_Shield/tree/V_1.5)
