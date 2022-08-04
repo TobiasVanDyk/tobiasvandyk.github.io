@@ -10,7 +10,7 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
   <a href="https://github.com/TobiasVanDyk/VS1053B-Teensy36-Teensy41-SDCard-Music-Player">5. VS1053 SDCard Music Player using a Teensy 3.x and 4.x</a> <br /> 
 </p>
 
-## Additional Links
+**Additional Links**<br>
 
 * [Raspberry Pi Pico TinyGo VS1053](https://github.com/elehobica/pico_tinygo_vs1053)
 * [Adafruit VS1053 Codec Breakout](https://github.com/adafruit/Adafruit_VS1053_Library)
