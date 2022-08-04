@@ -17,3 +17,6 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
 [4. Arduino SFEMP3Shield VSLI's VS10xx Library](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/)<br>
 [5. Arduino VS1053 Library](https://github.com/mpflaga/Arduino_Library-vs1053_for_SdFat)<br>
 [6. SparkFun MP3 Player Shield](https://github.com/sparkfun/MP3_Player_Shield/tree/V_1.5)<br>
+[7. Adafruit VS1053 Codec Breakout Board](https://www.adafruit.com/product/1381)<br>
+[8. Adafruit Music Maker MP3 Amplifier Shield](https://www.adafruit.com/product/1788)<br>
+[9. Adafruit Music Maker MP3 Shield](https://www.adafruit.com/product/1790)<br>
