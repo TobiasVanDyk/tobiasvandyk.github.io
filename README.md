@@ -9,20 +9,3 @@ The VLSI VS1053 DSP is connected to a Raspberry Pi Pico (RP2040), a Teensy3.x an
   <a href="https://github.com/TobiasVanDyk/VS1053B-Teensy-36-and-41-Music-Effects">4. VS1053 Audio Effects Preamp using a Teensy 3.x and 4.x</a> <br /> 
   <a href="https://github.com/TobiasVanDyk/VS1053B-Teensy36-Teensy41-SDCard-Music-Player">5. VS1053 SDCard Music Player using a Teensy 3.x and 4.x</a> <br /> 
 </p>
-
-Search my GitHub:
-  <input type="text" id="searchbox" onchange="search();">
-  <a href="https://google.com"  id="searcher" class="button">search</a>
-  <script>
-    function search() {
-      let url = 'https://github.com/search?q=user%3ATobiasVanDyk+';
-      let term = document.getElementById('searchbox').value;
-      url += term;
-      url += "&type=code";
-      let mySearchLink = document.getElementById("searcher");
-      mySearchLink.href = url;
-      mySearchLink.target = "_blank";
-      mySearchLink.click();
-     
-    }
-  </script>
