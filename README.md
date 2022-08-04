@@ -13,10 +13,7 @@ The VLSI VS1053 DSP is connected to a Raspberry Pi Pico (RP2040), a Teensy3.x an
 Search my GitHub:
   <input type="text" id="searchbox" onchange="search();">
   <a href="https://google.com"  id="searcher" class="button">search</a>
-
-  
   <script>
-
     function search() {
       let url = 'https://github.com/search?q=user%3ATobiasVanDyk+';
       let term = document.getElementById('searchbox').value;
