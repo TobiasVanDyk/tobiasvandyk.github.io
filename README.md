@@ -4,7 +4,7 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
 
 
 <p class="header">
-  <b>Github Pages</b>
+  <b>Github Pages</b><br>
   <a href="https://github.com/TobiasVanDyk/Pico-MCU-from-Raspberry-Pi/tree/main/Vs1053Pico">1. VS1053 SDCard Music Player using a Raspberry Pi Pico</a> <br /> 
   <a href="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b">2. VS1053 Audio Effects Preamp using an ATMega328</a> <br /> 
   <a href="https://github.com/TobiasVanDyk/VS1053-Micro-Midi-Synthesizer">3. VS1053 Midi Synth using an ATMega328</a> <br /> 
@@ -14,7 +14,7 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
 
 
 <p class="header">
-  <b>Instructables Pages</b>
+  <b>Instructables Pages</b><br>
   <a href="https://www.instructables.com/Audio-Effects-Preamp-With-VS1053b/">1. Audio Effects Preamp With VS1053b</a> <br /> 
   <a href="https://www.instructables.com/Micro-Midi-Synthesizer/">2. Micro Midi Synthesizer</a> <br /> 
 </p>
