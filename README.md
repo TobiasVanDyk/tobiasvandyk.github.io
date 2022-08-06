@@ -1,4 +1,4 @@
-# VS1053B Projects tobiasvandyk.github.io
+# VS1053B Projects
 
 The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed by, and connected to, a [Raspberry Pi Pico (RP2040)](https://www.raspberrypi.com/products/raspberry-pi-pico/), a [Teensy3.x](https://www.pjrc.com/store/teensy36.html) and [Teensy4.x](https://www.pjrc.com/store/teensy41.html), and an [ATmega328](https://www.microchip.com/en-us/product/ATmega328) [Arduino Uno](https://docs.arduino.cc/hardware/uno-rev3), as a Music Effects Box, SDCard Music Player and a Midi Synth.
 
