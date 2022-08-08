@@ -32,7 +32,7 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
 [10. Adafruit Music Maker MP3 Shield](https://www.adafruit.com/product/1790)<br>
 
 **VLSI Solutions Links**<br>
-[1. VS1053 - Ogg Vorbis-MP3-AAC-WMA-FLAC-MIDI Audio Codec Midi-Synth Chip](https://www.vlsi.fi/en/products/vs1053.html)<br>
+[1. VS1053 Ogg Vorbis-MP3-AAC-WMA-FLAC-MIDI Audio Codec Midi-Synth Chip](https://www.vlsi.fi/en/products/vs1053.html)<br>
 [2. VLSI Forum](http://www.vsdsp-forum.com/phpbb/index.php)<br>
 [3. VSIDE application development suite for VSDSP signal processors](https://www.vlsi.fi/en/support/software/vside.html)<br>
 [4. VLSI Solution Application Notes](https://www.vlsi.fi/en/support/applicationnotes.html)<br>
