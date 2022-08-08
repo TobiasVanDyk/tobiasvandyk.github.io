@@ -36,7 +36,7 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
 [2. VLSI Forum](http://www.vsdsp-forum.com/phpbb/index.php)<br>
 [3. VSIDE application development suite for VSDSP signal processors](https://www.vlsi.fi/en/support/software/vside.html)<br>
 [4. VLSI Solution Application Notes](https://www.vlsi.fi/en/support/applicationnotes.html)<br>
-[5. VS10XX Applications](https://www.vlsi.fi/en/support/software/vs10xxapplications.html)<br>
+[5. VLSI Solution-VS10XX Applications](https://www.vlsi.fi/en/support/software/vs10xxapplications.html)<br>
 [6. VLSI Solution-VS10XX Patches](https://www.vlsi.fi/en/support/software/vs10xxpatches.html)<br>
 [7. VLSI Solution-VS10XX Plugins](https://www.vlsi.fi/en/support/software/vs10xxplugins.html)<br>
 
