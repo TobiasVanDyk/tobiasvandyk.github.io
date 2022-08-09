@@ -1,7 +1,6 @@
 # VS1053B Projects
 
-`The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed by, and connected to, a [Raspberry Pi Pico (RP2040)](https://www.raspberrypi.com/products/raspberry-pi-pico/), a [Teensy3.x](https://www.pjrc.com/store/teensy36.html) and [Teensy4.x](https://www.pjrc.com/store/teensy41.html), and an [ATmega328](https://www.microchip.com/en-us/product/ATmega328) [Arduino Uno](https://docs.arduino.cc/hardware/uno-rev3), as a Music Effects Box, SDCard Music Player and a Midi Synth.`
-
+The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed by, and connected to, a [Raspberry Pi Pico (RP2040)](https://www.raspberrypi.com/products/raspberry-pi-pico/), a [Teensy3.x](https://www.pjrc.com/store/teensy36.html) and [Teensy4.x](https://www.pjrc.com/store/teensy41.html), and an [ATmega328](https://www.microchip.com/en-us/product/ATmega328) [Arduino Uno](https://docs.arduino.cc/hardware/uno-rev3), as a Music Effects Box, SDCard Music Player and a Midi Synth.
 
 <p class="header">
   <b>Github Pages</b><br>
@@ -11,7 +10,6 @@
   <a href="https://github.com/TobiasVanDyk/VS1053B-Teensy-36-and-41-Music-Effects">4. VS1053 Audio Effects Preamp using a Teensy 3.x and 4.x</a> <br /> 
   <a href="https://github.com/TobiasVanDyk/VS1053B-Teensy36-Teensy41-SDCard-Music-Player">5. VS1053 SDCard Music Player using a Teensy 3.x and 4.x</a> <br /> 
 </p>
-
 
 <p class="header">
   <b>Instructables Pages</b><br>
