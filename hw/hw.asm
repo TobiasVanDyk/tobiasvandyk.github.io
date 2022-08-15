@@ -1,6 +1,6 @@
     global  _main
     extern  _printf
-
+;-----------------------------;
     section .text
 _main:
     push    message
@@ -9,3 +9,4 @@ _main:
     ret
 message:
     db  'Hello, World', 10, 0
+;-----------------------------;   
