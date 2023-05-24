@@ -40,5 +40,10 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
 [5. VLSI Solution-VS10XX Applications](https://www.vlsi.fi/en/support/software/vs10xxapplications.html)<br>
 [6. VLSI Solution-VS10XX Patches](https://www.vlsi.fi/en/support/software/vs10xxpatches.html)<br>
 [7. VLSI Solution-VS10XX Plugins](https://www.vlsi.fi/en/support/software/vs10xxplugins.html)<br>
+[8. Buy VS1053B](https://webstore.vlsi.fi/epages/vlsi.sf/en_GB/?ObjectID=3271321)<br>
 
+
+<p align="left">
+<img src="/vs1053_chip_2" height="120" /> 
+</p>
 
