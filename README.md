@@ -44,6 +44,6 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
 
 
 <p align="left">
-<img src="/vs1053_chip_2" height="120" /> 
+<img src="/vs1053_chip_2.jpg" height="120" /> 
 </p>
 
