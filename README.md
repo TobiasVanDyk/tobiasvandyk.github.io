@@ -28,6 +28,9 @@ The [VLSI VS1053 DSP](https://www.vlsi.fi/en/products/vs1053.html) is programmed
 [8. Adafruit VS1053 Codec Breakout Board](https://www.adafruit.com/product/1381)<br>
 [9. Adafruit Music Maker MP3 Amplifier Shield](https://www.adafruit.com/product/1788)<br>
 [10. Adafruit Music Maker MP3 Shield](https://www.adafruit.com/product/1790)<br>
+[11. Arduino-audio-tools examples vs1053](https://github.com/pschatzmann/arduino-audio-tools/tree/main/examples/examples-vs1053)<br>
+[12. VS1053 library](https://github.com/pschatzmann/arduino-vs1053) and [VS1053 Pinouts](https://github.com/pschatzmann/arduino-vs1053/wiki/Pinouts-for-Processors-and-Tested-Boards)<br>
+
 
 **VLSI Solutions Links**<br>
 [1. VS1053 Ogg Vorbis-MP3-AAC-WMA-FLAC-MIDI Audio Codec Midi-Synth Chip](https://www.vlsi.fi/en/products/vs1053.html)<br>
